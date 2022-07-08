@@ -56,3 +56,5 @@ $ mvn clean test
 ```
 
 In a video:
+
+![](./demo.gif)
