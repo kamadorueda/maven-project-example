@@ -13,7 +13,7 @@ This project contains:
 - [App](./src/main/java/com/username/App.java):
   A command line application that can be called with arguments.
 
-- [CodeTest](./test/main/java/com/username/CodeTest.java):
+- [CodeTest](./src/test/java/com/username/CodeTest.java):
   Tests for the `Code` class.
 
 # Getting started
