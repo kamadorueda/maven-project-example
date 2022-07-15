@@ -1,4 +1,4 @@
-package com.username;
+package pkg1;
 
 import static org.junit.Assert.assertEquals;
 

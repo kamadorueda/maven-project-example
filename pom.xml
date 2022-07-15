@@ -7,7 +7,7 @@
 >
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.username</groupId>
+  <groupId>com.example</groupId>
   <artifactId>example-project</artifactId>
   <version>0.1.0</version>
 
@@ -63,7 +63,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.username.App</mainClass>
+              <mainClass>pkg1.App</mainClass>
             </manifest>
           </archive>
           <finalName>App</finalName>
